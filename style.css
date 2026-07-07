@@ -728,6 +728,11 @@ footer .logo {
         padding-right: 1rem;
     }
 
+    .skills-grid,
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+
     .timeline-item {
         padding-left: 50px;
     }
